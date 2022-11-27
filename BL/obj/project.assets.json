@@ -5859,11 +5859,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\User\\Documents\\בארטר\\BL\\BL.csproj",
       "projectName": "BL",
       "projectPath": "C:\\Users\\User\\Documents\\בארטר\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Documents\\בארטר\\BL\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\This_user\\Desktop\\New folder\\Barters\\BL\\BL.csproj",
+      "projectName": "BL",
+      "projectPath": "C:\\Users\\This_user\\Desktop\\New folder\\Barters\\BL\\BL.csproj",
+      "packagesPath": "C:\\Users\\This_user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\This_user\\Desktop\\New folder\\Barters\\BL\\obj\\",
+>>>>>>> e28671e10bf3666fe51b7b253adda6fa9139f423
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5880,11 +5888,19 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\User\\Documents\\בארטר\\DAL\\DAL.csproj": {
               "projectPath": "C:\\Users\\User\\Documents\\בארטר\\DAL\\DAL.csproj"
             },
             "C:\\Users\\User\\Documents\\בארטר\\DTO\\DTO.csproj": {
               "projectPath": "C:\\Users\\User\\Documents\\בארטר\\DTO\\DTO.csproj"
+=======
+            "C:\\Users\\This_user\\Desktop\\New folder\\Barters\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\This_user\\Desktop\\New folder\\Barters\\DAL\\DAL.csproj"
+            },
+            "C:\\Users\\This_user\\Desktop\\New folder\\Barters\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\This_user\\Desktop\\New folder\\Barters\\DTO\\DTO.csproj"
+>>>>>>> e28671e10bf3666fe51b7b253adda6fa9139f423
             }
           }
         }

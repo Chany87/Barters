@@ -5803,11 +5803,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\User\\Documents\\בארטר\\DAL\\DAL.csproj",
       "projectName": "DAL",
       "projectPath": "C:\\Users\\User\\Documents\\בארטר\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Documents\\בארטר\\DAL\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\This_user\\Desktop\\New folder\\Barters\\DAL\\DAL.csproj",
+      "projectName": "DAL",
+      "projectPath": "C:\\Users\\This_user\\Desktop\\New folder\\Barters\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\This_user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\This_user\\Desktop\\New folder\\Barters\\DAL\\obj\\",
+>>>>>>> e28671e10bf3666fe51b7b253adda6fa9139f423
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
