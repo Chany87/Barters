@@ -57,3 +57,12 @@ C:\Users\User\Documents\בארטר\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInpu
 C:\Users\User\Documents\בארטר\BL\obj\Debug\net5.0\BL.dll
 C:\Users\User\Documents\בארטר\BL\obj\Debug\net5.0\ref\BL.dll
 C:\Users\User\Documents\בארטר\BL\obj\Debug\net5.0\BL.pdb
+C:\Users\User\Documents\בארטר\BL\bin\Debug\net5.0\BL.deps.json
+C:\Users\User\Documents\בארטר\BL\bin\Debug\net5.0\BL.dll
+C:\Users\User\Documents\בארטר\BL\bin\Debug\net5.0\ref\BL.dll
+C:\Users\User\Documents\בארטר\BL\bin\Debug\net5.0\BL.pdb
+C:\Users\User\Documents\בארטר\BL\bin\Debug\net5.0\DAL.dll
+C:\Users\User\Documents\בארטר\BL\bin\Debug\net5.0\DTO.dll
+C:\Users\User\Documents\בארטר\BL\bin\Debug\net5.0\DAL.pdb
+C:\Users\User\Documents\בארטר\BL\bin\Debug\net5.0\DTO.pdb
+C:\Users\User\Documents\בארטר\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
