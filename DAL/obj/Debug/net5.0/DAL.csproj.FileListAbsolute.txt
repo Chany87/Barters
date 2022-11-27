@@ -58,3 +58,18 @@ C:\Users\User\Documents\בארטר\DAL\obj\Debug\net5.0\DAL.dll
 C:\Users\User\Documents\בארטר\DAL\obj\Debug\net5.0\ref\DAL.dll
 C:\Users\User\Documents\בארטר\DAL\obj\Debug\net5.0\DAL.pdb
 C:\Users\User\Documents\בארטר\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\This_user\Desktop\New folder\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\This_user\Desktop\New folder\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\This_user\Desktop\New folder\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\This_user\Desktop\New folder\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\This_user\Desktop\New folder\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\ref\DAL.dll
