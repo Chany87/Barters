@@ -43,3 +43,18 @@ C:\Users\This_user\Desktop\New folder\Barters\DTO\obj\Debug\net5.0\DTO.dll
 C:\Users\This_user\Desktop\New folder\Barters\DTO\obj\Debug\net5.0\refint\DTO.dll
 C:\Users\This_user\Desktop\New folder\Barters\DTO\obj\Debug\net5.0\DTO.pdb
 C:\Users\This_user\Desktop\New folder\Barters\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\User\Documents\בארטר\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\User\Documents\בארטר\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\User\Documents\בארטר\DTO\bin\Debug\net5.0\ref\DTO.dll
+C:\Users\User\Documents\בארטר\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\User\Documents\בארטר\DTO\bin\Debug\net5.0\DAL.dll
+C:\Users\User\Documents\בארטר\DTO\bin\Debug\net5.0\DAL.pdb
+C:\Users\User\Documents\בארטר\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\User\Documents\בארטר\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\בארטר\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\User\Documents\בארטר\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\User\Documents\בארטר\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\בארטר\DTO\obj\Debug\net5.0\DTO.csproj.CopyComplete
+C:\Users\User\Documents\בארטר\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\User\Documents\בארטר\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\User\Documents\בארטר\DTO\obj\Debug\net5.0\DTO.pdb

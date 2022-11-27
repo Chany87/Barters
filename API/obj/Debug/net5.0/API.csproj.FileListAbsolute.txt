@@ -206,3 +206,13 @@ C:\Users\This_user\Desktop\New folder\Barters\API\obj\Debug\net5.0\refint\API.dl
 C:\Users\This_user\Desktop\New folder\Barters\API\obj\Debug\net5.0\API.pdb
 C:\Users\This_user\Desktop\New folder\Barters\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Users\This_user\Desktop\New folder\Barters\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\User\Documents\בארטר\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\User\Documents\בארטר\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\בארטר\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\User\Documents\בארטר\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\User\Documents\בארטר\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\בארטר\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\בארטר\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\בארטר\API\obj\Debug\net5.0\API.dll
+C:\Users\User\Documents\בארטר\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\User\Documents\בארטר\API\obj\Debug\net5.0\API.pdb
