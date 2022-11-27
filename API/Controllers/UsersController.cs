@@ -57,7 +57,7 @@ namespace API.Controllers
         {
             if (user.Id != id)
 
-                return StatusCode(400, "id not found");
+                return StatusCode(400, "");
             return Ok(_userBL.UpdateUser(id, user));
         }
     }
