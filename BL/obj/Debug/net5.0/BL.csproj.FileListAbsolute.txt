@@ -83,3 +83,20 @@ C:\Users\This_user\Desktop\New folder\BL\obj\Debug\net5.0\BL.dll
 C:\Users\This_user\Desktop\New folder\BL\obj\Debug\net5.0\refint\BL.dll
 C:\Users\This_user\Desktop\New folder\BL\obj\Debug\net5.0\BL.pdb
 C:\Users\This_user\Desktop\New folder\BL\obj\Debug\net5.0\ref\BL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\bin\Debug\net5.0\BL.deps.json
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\bin\Debug\net5.0\BL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\bin\Debug\net5.0\ref\BL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\bin\Debug\net5.0\BL.pdb
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\bin\Debug\net5.0\DAL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\bin\Debug\net5.0\DTO.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\bin\Debug\net5.0\DAL.pdb
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\bin\Debug\net5.0\DTO.pdb
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\obj\Debug\net5.0\BL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\obj\Debug\net5.0\BL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\obj\Debug\net5.0\ref\BL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\BL\obj\Debug\net5.0\BL.pdb

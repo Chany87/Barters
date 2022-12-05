@@ -73,3 +73,18 @@ C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\refint\DAL.dll
 C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\DAL.pdb
 C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
 C:\Users\This_user\Desktop\New folder\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\User\Downloads\BarterServer\BarterServer\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
